@@ -2,11 +2,7 @@
 title: "Simple document"
 author: Jiayi
 date: 2022-9-18
-output: 
-  html_document:
-    toc: true #table of contents
-    toc_float: true
-    code_folding: hide
+output: github_document
 ---
 ```{r message=FALSE}
 library(tidyverse)
