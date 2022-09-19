@@ -14,8 +14,6 @@ I'm an R Markdown document!
 **bold**  or  __bold__
 `code`
 superscript^2^ and subscript~2~
-Headings
-------------------------------------------------------------
 
 # 1st Level Header
 
