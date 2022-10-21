@@ -52,7 +52,7 @@ length(samp)
 
 # Section 2
 
-I can take the mean of the sample, too! The mean is -0.07.
+I can take the mean of the sample, too! The mean is 0.03.
 
 # Section 3
 
@@ -76,4 +76,4 @@ ggplot(dt,aes(x=var_abs))+geom_histogram()
     ## `stat_bin()` using `bins = 30`. Pick better value with `binwidth`.
 
 ![](template_files/figure-gfm/unnamed-chunk-3-1.png)<!-- --> The median
-value is 1
+value is 0.99
